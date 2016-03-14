@@ -1,6 +1,9 @@
 NumberCircleProgressBar
 =======================
 
+>相关介绍,请查看网址：[Android自定义控件NumberCircleProgressBar(圆形进度条)的实现](http://www.itnose.net/detail/6107889.html)
+
+
 The NumberCircleProgressBar is a bar, slim and sexy.  I decided to do this after I saw [@daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar). And I made some change for the progressbar's shape and style.
 
 ---
